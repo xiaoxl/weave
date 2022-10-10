@@ -1,0 +1,14 @@
+project:
+  output-dir: _output
+
+toc: true
+number-sections: true
+  
+format:
+  html:
+    theme: 
+      - cosmo
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
+  pdf:
+    documentclass: scrreprt

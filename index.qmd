@@ -1,0 +1,109 @@
+
+# Institutional Mission {.unnumbered}
+Arkansas Tech University is dedicated to student success, access, and excellence as a responsive campus community providing opportunities for progressive intellectual development and civic engagement. Embracing and expanding upon its technological traditions, Tech inspires and empowers members of the community to achieve their goals while striving for the betterment of Arkansas, the nation, and the world.
+
+# Program Mission {.unnumbered}
+The mathematics degree provides students with the knowledge and skills in mathematics that prepares them for graduate level work in mathematics or for a career in technological fields.
+
+____________________________________________________________________________________
+INFORMATION BLOCK
+
+Point of Contact for this year's assessment (add additional names as needed):
+1)
+2)
+
+APPROVALS
+____________________________________________________________________________________
+Department Head Approval:         	Date: 
+Dean Approval:       				Date: 
+Office of Assessment Review:       	Date: 
+_____________________________________________________________________________________
+
+Student Learning Outcomes assessed during the calendar year:
+ (Add more as necessary)
+       Outcome 1:
+       Outcome 2: 
+
+Program Level Context and Additional Comments:
+
+# Calendar Year Assessment Information {.unnumbered}
+
+
+# 2022
+
+## `Program Learning Outcomes`: Knowledge of Mathematics
+Students will demonstrate an understanding of calculus, linear algebra, and other areas of mathematics. Courses that this PLO can be assessed: Calculus I, II, and III, Linear Algebra, Differential Equations, Introduction to Analysis, Linear Algebra, Abstract Algebra, Mathematical Modeling and Senior Seminar
+(MATH 2914, 2924, 2934, 3243, 3203, 4003, 4033, 4123, 4971)
+
+###  `Measure`: Pretest
+
+#### Expectations/Target for this Outcome (1)
+The pretest is given at the beginning of the semester, before any material is covered. All questions are multiple choice questions, therefore whether the correctness of each question is objective.
+
+- EXPECTATIONS/TARGET FOR THIS OUTCOME: 
+    There are no expectations for the pretest. The results are used to be compared with results from the posttest.
+- Improvement(s) achieved
+    This is a baseline assessment of the students's knowledge before instruction and learning takes place in the course.
+
+### Measure Posttest
+
+#### Expectations/Target for this Outcome (1)
+
+The posttest is given during the semester, with the majority part being blended into the final exam at the end of the semester. All the scores are recorded and paired with the results from the pretest. The matched-pair t-Test is applied.
+
+- EXPECTATIONS/TARGET FOR THIS OUTCOME
+    We expect to see that from the matched pair t-Test the increase of scores from pretest to posttest for each individuals within each whole class is statistically significant.
+- FINDINGS/RESULTS
+    2021: For MATH2914, 2924, 2934, 3243, the mean pretest score is lower than the mean posttest score based on a p-value of less than 0.0001. Therefore there is quite a significant increase in the learning acquired by our students in these four courses.
+- REFLECTION ON FINDINGS AND RECOMMENDATIONS FOR NEXT STEPS
+    2021; Currently we only record the total score of pretest/posttest. We may record the correctness of each individual questions of each students for us to get more information on students learning.
+
+##  Program Learning Outcomes Problem Solving
+Students will demonstrated an ability to formulate, analyze, and solve problems through analytical techniques. Courses that this PLO can be assessed: Calculus I, II, and III, Linear Algebra, Differential Equations, Mathematical Modeling and Senior Seminar
+(MATH 2914, 2924, 2934, 3243, 4123, 4971)
+
+### Measure Pretest
+
+#### Expectations/Target for this Outcome (1)
+70 % of the students will achieve a 70% or better
+
+### Measure Posttest
+
+#### Expectations/Target for this Outcome (1)
+70% of students will scores at least a 70% or better
+
+## Program Learning Outcomes Mathematical Reasoning
+Students will be able to reason and use logic to develop and write valid mathematical proofs. Courses that can be assessed for this PLO : Discrete Mathematics, Foundations of Mathematics, Introduction to Analysis, Abstract Algebra (MATH 2703, 3003, 3203, 4003)
+
+### Measure Proof Assignment
+#### Expectations/Target for this Outcome (1)
+70% of the students will achieve a 70% or better
+
+## Program Learning Outcomes Communication of Mathematics
+Students will be able to communicate mathematics in both written and oral forms.  Courses that can be assessed for this PLO : Discrete Mathematics, Foundations of Mathematics, Introduction to Analysis, Abstract Algebra, Senior Seminar (MATH 2703, MATH 3003, 3203, 4033, 4971)
+
+### Measure Senior Seminar Research Project
+
+- METHODOLOGY
+    Project-Undergraduate research project in MATH 4971. Turned in written report and video presentation.
+#### Expectations/Target for this Outcome (1)
+70% of the students will achieve a 70% or better
+
+- FINDINGS/RESULTS
+    2021: The following are the 4 students' grades based on the standard grading scale:
+    A, A, A, F
+    So, 75% of the students achieved a 70% or better.
+- REFLECTION ON FINDINGS AND RECOMMENDATIONS FOR NEXT STEPS
+    2021: The COVID pandemic affected the attendance and performance of the student who received an F. Recommendation is in-class weekly meetings with students which is required during non-pandemic years.
+- IMPROVEMENT TYPE:
+    No Improvements Deemed Necessary
+- IMPROVEMENT(S) ACHIEVED
+    Yes.
+
+## Program Learning Outcomes: Application of Mathematics
+Students will understand how to apply modeling methods and technology to solve real-world problems. Courses that can be assessed for this PLO :  Applied Statistics, Differential Equations, Linear Algebra, Mathematics Modeling. (STAT 3153, MATH 3243, 4003, 4123)
+
+### Measure: Project
+
+#### Expectations/Target for this Outcome (1)
+70% of the students will achieve at least a 70% or better
