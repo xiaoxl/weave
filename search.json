@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Arkansas Tech University is dedicated to student success, access, and excellence as a responsive campus community providing opportunities for progressive intellectual development and civic engagement. Embracing and expanding upon its technological traditions, Tech inspires and empowers members of the community to achieve their goals while striving for the betterment of Arkansas, the nation, and the world."
+  },
+  {
+    "objectID": "index.html#program-learning-outcomes-knowledge-of-mathematics",
+    "href": "index.html#program-learning-outcomes-knowledge-of-mathematics",
+    "title": "",
+    "section": "1.1 Program Learning Outcomes: Knowledge of Mathematics",
+    "text": "1.1 Program Learning Outcomes: Knowledge of Mathematics\nStudents will demonstrate an understanding of calculus, linear algebra, and other areas of mathematics. Courses that this PLO can be assessed: Calculus I, II, and III, Linear Algebra, Differential Equations, Introduction to Analysis, Linear Algebra, Abstract Algebra, Mathematical Modeling and Senior Seminar (MATH 2914, 2924, 2934, 3243, 3203, 4003, 4033, 4123, 4971)\n\n1.1.1 Measure: Pretest\n\n1.1.1.1 Expectations/Target for this Outcome (1)\nThe pretest is given at the beginning of the semester, before any material is covered. All questions are multiple choice questions, therefore whether the correctness of each question is objective.\n\nEXPECTATIONS/TARGET FOR THIS OUTCOME: There are no expectations for the pretest. The results are used to be compared with results from the posttest.\nImprovement(s) achieved This is a baseline assessment of the students’s knowledge before instruction and learning takes place in the course.\n\n\n\n\n1.1.2 Measure Posttest\n\n1.1.2.1 Expectations/Target for this Outcome (1)\nThe posttest is given during the semester, with the majority part being blended into the final exam at the end of the semester. All the scores are recorded and paired with the results from the pretest. The matched-pair t-Test is applied.\n\nEXPECTATIONS/TARGET FOR THIS OUTCOME We expect to see that from the matched pair t-Test the increase of scores from pretest to posttest for each individuals within each whole class is statistically significant.\nFINDINGS/RESULTS 2021: For MATH2914, 2924, 2934, 3243, the mean pretest score is lower than the mean posttest score based on a p-value of less than 0.0001. Therefore there is quite a significant increase in the learning acquired by our students in these four courses.\nREFLECTION ON FINDINGS AND RECOMMENDATIONS FOR NEXT STEPS 2021; Currently we only record the total score of pretest/posttest. We may record the correctness of each individual questions of each students for us to get more information on students learning."
+  },
+  {
+    "objectID": "index.html#program-learning-outcomes-problem-solving",
+    "href": "index.html#program-learning-outcomes-problem-solving",
+    "title": "",
+    "section": "1.2 Program Learning Outcomes Problem Solving",
+    "text": "1.2 Program Learning Outcomes Problem Solving\nStudents will demonstrated an ability to formulate, analyze, and solve problems through analytical techniques. Courses that this PLO can be assessed: Calculus I, II, and III, Linear Algebra, Differential Equations, Mathematical Modeling and Senior Seminar (MATH 2914, 2924, 2934, 3243, 4123, 4971)\n\n1.2.1 Measure Pretest\n\n1.2.1.1 Expectations/Target for this Outcome (1)\n70 % of the students will achieve a 70% or better\n\n\n\n1.2.2 Measure Posttest\n\n1.2.2.1 Expectations/Target for this Outcome (1)\n70% of students will scores at least a 70% or better"
+  },
+  {
+    "objectID": "index.html#program-learning-outcomes-mathematical-reasoning",
+    "href": "index.html#program-learning-outcomes-mathematical-reasoning",
+    "title": "",
+    "section": "1.3 Program Learning Outcomes Mathematical Reasoning",
+    "text": "1.3 Program Learning Outcomes Mathematical Reasoning\nStudents will be able to reason and use logic to develop and write valid mathematical proofs. Courses that can be assessed for this PLO : Discrete Mathematics, Foundations of Mathematics, Introduction to Analysis, Abstract Algebra (MATH 2703, 3003, 3203, 4003)\n\n1.3.1 Measure Proof Assignment\n\n1.3.1.1 Expectations/Target for this Outcome (1)\n70% of the students will achieve a 70% or better"
+  },
+  {
+    "objectID": "index.html#program-learning-outcomes-communication-of-mathematics",
+    "href": "index.html#program-learning-outcomes-communication-of-mathematics",
+    "title": "",
+    "section": "1.4 Program Learning Outcomes Communication of Mathematics",
+    "text": "1.4 Program Learning Outcomes Communication of Mathematics\nStudents will be able to communicate mathematics in both written and oral forms. Courses that can be assessed for this PLO : Discrete Mathematics, Foundations of Mathematics, Introduction to Analysis, Abstract Algebra, Senior Seminar (MATH 2703, MATH 3003, 3203, 4033, 4971)\n\n1.4.1 Measure Senior Seminar Research Project\n\nMETHODOLOGY Project-Undergraduate research project in MATH 4971. Turned in written report and video presentation. #### Expectations/Target for this Outcome (1) 70% of the students will achieve a 70% or better\nFINDINGS/RESULTS 2021: The following are the 4 students’ grades based on the standard grading scale: A, A, A, F So, 75% of the students achieved a 70% or better.\nREFLECTION ON FINDINGS AND RECOMMENDATIONS FOR NEXT STEPS 2021: The COVID pandemic affected the attendance and performance of the student who received an F. Recommendation is in-class weekly meetings with students which is required during non-pandemic years.\nIMPROVEMENT TYPE: No Improvements Deemed Necessary\nIMPROVEMENT(S) ACHIEVED Yes."
+  },
+  {
+    "objectID": "index.html#program-learning-outcomes-application-of-mathematics",
+    "href": "index.html#program-learning-outcomes-application-of-mathematics",
+    "title": "",
+    "section": "1.5 Program Learning Outcomes: Application of Mathematics",
+    "text": "1.5 Program Learning Outcomes: Application of Mathematics\nStudents will understand how to apply modeling methods and technology to solve real-world problems. Courses that can be assessed for this PLO : Applied Statistics, Differential Equations, Linear Algebra, Mathematics Modeling. (STAT 3153, MATH 3243, 4003, 4123)\n\n1.5.1 Measure: Project\n\n1.5.1.1 Expectations/Target for this Outcome (1)\n70% of the students will achieve at least a 70% or better"
+  }
+]
